@@ -1,0 +1,384 @@
+index,intersection,latitude,longitude,date,number,elements,vz_priority,borough
+0,W 22nd St & 5th Ave,40.7408790804,-73.9900689543,2022-01-25,1,Leading Pedestrian Interval,no,Manhattan
+1,Avenue P & Bedford Ave,40.6114767286,-73.9488202711,2022-01-26,2,Leading Pedestrian Interval,no,Brooklyn
+2,Bedford Ave & Quentin Rd,40.6093328623,-73.9484149398,2022-01-26,3,Leading Pedestrian Interval,no,Brooklyn
+3,Parkside Ave & St Paul Pl,40.6539938121,-73.9641477549,2022-01-27,4,Leading Pedestrian Interval,no,Brooklyn
+4,E 22nd St & Avenue K,40.6235400264261,-73.95396992282662,2022-02-02,5,Traffic Signal,no,Brooklyn
+5,Kingston Ave & Winthrop St,40.6576080464,-73.9423154106,2022-02-08,6,Leading Pedestrian Interval,no,Brooklyn
+6,W 12th St & Hudson St,40.7375527292,-74.0056869723,2022-02-09,7,Leading Pedestrian Interval,no,Manhattan
+7,W 13th St & 6th Ave,40.7366690286,-73.9973405816,2022-02-09,8,Leading Pedestrian Interval,no,Manhattan
+8,E 54th St & Beverley Rd,40.64655002702332,-73.9259299421338,2022-02-17,9,"Leading Pedestrian Interval, Traffic Signal",no,Brooklyn
+9,30th Ave & 70th St,40.76007003931332,-73.89755988209394,2022-02-17,10,Traffic Signal,no,Queens
+10,Dr Martin Luther King Jr Blvd & Ogden Ave,40.8442372152,-73.9236232015,2022-02-18,11,Leading Pedestrian Interval,no,Bronx
+11,E 150th St & Grand Concourse,40.8194792631,-73.9268779622,2022-02-18,12,Leading Pedestrian Interval,no,Bronx
+12,E 151st St & Grand Concourse,40.820025301,-73.9266244544,2022-02-18,13,Leading Pedestrian Interval,no,Bronx
+13,E 158th St & Concourse Vlg E,40.8238603387,-73.9194011196,2022-02-18,14,Leading Pedestrian Interval,no,Bronx
+14,E 163rd St & Grant Ave,40.8275485826,-73.9184680162,2022-02-18,15,Leading Pedestrian Interval,no,Bronx
+15,E 164th St & Grant Ave,40.8287585259,-73.9177980488,2022-02-18,16,Leading Pedestrian Interval,no,Bronx
+16,E 164th St & River Ave,40.8306815074,-73.9242602904,2022-02-18,17,Leading Pedestrian Interval,no,Bronx
+17,E 164th St & Walton Ave,40.8300517403,-73.9224145077,2022-02-18,18,Leading Pedestrian Interval,no,Bronx
+18,E 166th St & Sherman Ave,40.8311297077,-73.9174446045,2022-02-18,19,Leading Pedestrian Interval,no,Bronx
+19,E 166th St & Teller Ave,40.829699282,-73.9131246521,2022-02-18,20,Leading Pedestrian Interval,no,Bronx
+20,E 168th St & Clay Ave,40.8325737482,-73.9105154649,2022-02-18,21,Leading Pedestrian Interval,no,Bronx
+21,E 168th St & Walton Ave,40.8364386689,-73.9184101416,2022-02-18,22,Leading Pedestrian Interval,no,Bronx
+22,E 169th St & Findlay Ave,40.8347206426,-73.9111991909,2022-02-18,23,Leading Pedestrian Interval,no,Bronx
+23,E 169th St & Sheridan Ave,40.8359914289,-73.9148185477,2022-02-18,24,Leading Pedestrian Interval,no,Bronx
+24,E 169th St & Teller Ave,40.8344317851,-73.9103431204,2022-02-18,25,Leading Pedestrian Interval,no,Bronx
+25,E 169th St & Walton Ave,40.8371546408,-73.9178491107,2022-02-18,26,Leading Pedestrian Interval,no,Bronx
+26,E 171st St & Walton Ave,40.8406330004,-73.9151776268,2022-02-18,27,Leading Pedestrian Interval,no,Bronx
+27,E 173rd St & Eastburn Ave,40.8437322157,-73.9085668334,2022-02-18,28,Leading Pedestrian Interval,no,Bronx
+28,E 173rd St & Weeks Ave,40.8436875779,-73.907659719,2022-02-18,29,Leading Pedestrian Interval,no,Bronx
+29,E 174th St & Selwyn Ave,40.8448835892,-73.910274819,2022-02-18,30,Leading Pedestrian Interval,no,Bronx
+30,E 174th St & Townsend Ave,40.8450614039,-73.9130865179,2022-02-18,31,Leading Pedestrian Interval,no,Bronx
+31,E 174th St & Walton Ave,40.8447176944,-73.9122665214,2022-02-18,32,Leading Pedestrian Interval,no,Bronx
+32,E Mt Eden Ave & Townsend Ave,40.8439778222,-73.9138577717,2022-02-18,33,Leading Pedestrian Interval,no,Bronx
+33,E Mt Eden Ave & Walton Ave,40.8436423468,-73.9130305442,2022-02-18,34,Leading Pedestrian Interval,no,Bronx
+34,Edward L Grant Hwy & Nelson Ave,40.8418183348,-73.922436926,2022-02-18,35,Leading Pedestrian Interval,no,Bronx
+35,Edward L Grant Hwy & Shakespeare Ave,40.8410439965,-73.9219463111,2022-02-18,36,Leading Pedestrian Interval,no,Bronx
+36,McClellan St & River Ave,40.8341631889,-73.9222181861,2022-02-18,37,Leading Pedestrian Interval,no,Bronx
+37,McClellan St & Walton Ave,40.8335416195,-73.9203650889,2022-02-18,38,Leading Pedestrian Interval,no,Bronx
+38,W 165th St & Ogden Ave,40.8344170474,-73.9285383189,2022-02-18,39,Leading Pedestrian Interval,no,Bronx
+39,W 166th St & Ogden Ave,40.8356215525,-73.92785763,2022-02-18,40,Leading Pedestrian Interval,no,Bronx
+40,W 167th St & Dr Martin Luther King Jr Blvd,40.8377101355,-73.9276313027,2022-02-18,41,Leading Pedestrian Interval,no,Bronx
+41,W 167th St & Ogden Ave,40.8369385474,-73.9271153575,2022-02-18,42,Leading Pedestrian Interval,no,Bronx
+42,W 168th St & Dr Martin Luther King Jr Blvd,40.8386210282,-73.9270737607,2022-02-18,43,Leading Pedestrian Interval,no,Bronx
+43,W 168th St & Nelson Ave,40.8383616418,-73.9249165142,2022-02-18,44,Leading Pedestrian Interval,no,Bronx
+44,W 168th St & Ogden Ave,40.8385216534,-73.9261848343,2022-02-18,45,Leading Pedestrian Interval,no,Bronx
+45,W 169th St & Ogden Ave,40.8401761239,-73.925268644,2022-02-18,46,Leading Pedestrian Interval,no,Bronx
+46,W 172nd St & Nelson Ave,40.8440652682,-73.9209886012,2022-02-18,47,Leading Pedestrian Interval,no,Bronx
+47,W 172nd St & Shakespeare Ave,40.8436583991,-73.9200421526,2022-02-18,48,Leading Pedestrian Interval,no,Bronx
+48,254th St & Grand Central Pkwy,40.75458006037147,-73.72319995133356,2022-02-18,49,Traffic Signal,no,Queens
+49,Amboy Rd & Huguenot Ave,40.531918064,-74.1917442334,2022-02-18,50,Leading Pedestrian Interval,no,Staten Island
+50,21st Rd & 21st St,40.7815804869,-73.9154586728,2022-02-22,51,Leading Pedestrian Interval,no,Queens
+51,23rd St & 36th Ave,40.7590698607,-73.9350587752,2022-02-22,52,Leading Pedestrian Interval,no,Queens
+52,27th Ave & 8th St,40.774213472,-73.9318162456,2022-02-22,53,Leading Pedestrian Interval,no,Queens
+53,30th St & 38th Ave,40.7541938904,-73.9327896147,2022-02-22,54,Leading Pedestrian Interval,no,Queens
+54,8th St & Astoria Blvd,40.7726988868,-73.9326842894,2022-02-22,55,Leading Pedestrian Interval,no,Queens
+55,Bond St & Livingston St,40.6887855182,-73.9835717678,2022-02-23,56,Leading Pedestrian Interval,no,Brooklyn
+56,Cumberland St & Lafayette Ave,40.6874165537,-73.9726862812,2022-02-23,57,Leading Pedestrian Interval,no,Brooklyn
+57,E 36th St & Fillmore Ave,40.6113808558,-73.9331603045,2022-02-23,58,Leading Pedestrian Interval,no,Brooklyn
+58,E 91st St & Winthrop St,40.659814044,-73.9264654829,2022-02-23,59,Leading Pedestrian Interval,no,Brooklyn
+59,E 93rd St & Winthrop St,40.6607381107,-73.9250335443,2022-02-23,60,Leading Pedestrian Interval,no,Brooklyn
+60,E 94th St & Farragut Rd,40.6450873987,-73.9063670565,2022-02-23,61,Leading Pedestrian Interval,no,Brooklyn
+61,Hanson Pl & St Felix St,40.6851914929,-73.9770283964,2022-02-23,62,Leading Pedestrian Interval,no,Brooklyn
+62,Hoyt St & Livingston St,40.6896311965,-73.9857387004,2022-02-23,63,Leading Pedestrian Interval,no,Brooklyn
+63,Jay St & Metrotech Rdwy,40.6931254657,-73.9872525061,2022-02-23,64,Leading Pedestrian Interval,no,Brooklyn
+64,Jay St & Willoughby St,40.692233421,-73.9872995549,2022-02-23,65,Leading Pedestrian Interval,no,Brooklyn
+65,W 11th St & Kings Hwy,40.6055966838,-73.9840352047,2022-02-23,66,Leading Pedestrian Interval,no,Brooklyn
+66,W 12th St & Kings Hwy,40.6057313095,-73.98500754,2022-02-23,67,Leading Pedestrian Interval,no,Brooklyn
+67,W 13th St & Kings Hwy,40.6058769052,-73.9859726731,2022-02-23,68,Leading Pedestrian Interval,no,Brooklyn
+68,5th Ave & E 72nd St,40.77246132,-73.9670408749,2022-02-23,69,Leading Pedestrian Interval,no,Manhattan
+69,Jefferson St & Madison St,40.7127698809,-73.988482392,2022-02-23,70,Leading Pedestrian Interval,no,Manhattan
+70,W 22nd St & 6th Ave,40.7422352202,-73.9932913561,2022-02-23,71,Leading Pedestrian Interval,no,Manhattan
+71,101st Ave & 111th St,40.6880420816,-73.8327446214,2022-02-23,72,Leading Pedestrian Interval,no,Queens
+72,12th Ave & New Utrecht Ave,40.6358480245,-73.9948333192,2022-02-24,73,Leading Pedestrian Interval,no,Brooklyn
+73,135th St & Rockaway Blvd,40.6745212284,-73.8032024363,2022-02-24,74,Leading Pedestrian Interval,no,Queens
+74,196th St & Jamaica Ave,40.7133190828,-73.7640184785,2022-02-24,75,Leading Pedestrian Interval,no,Queens
+75,218th St & Hempstead Ave,40.7139849484,-73.7381162577,2022-02-24,76,Leading Pedestrian Interval,no,Queens
+76,221st St & Hempstead Ave,40.7125596032,-73.7329852798,2022-02-24,77,Leading Pedestrian Interval,no,Queens
+77,231st St & Merrick Blvd,40.6755015547,-73.7386314927,2022-02-24,78,Leading Pedestrian Interval,no,Queens
+78,33rd St & Northern Blvd,40.7519917033,-73.931265117,2022-02-24,79,Leading Pedestrian Interval,no,Queens
+79,46th Ave & Francis Lewis Blvd,40.7547064679,-73.7816518921,2022-02-24,80,Leading Pedestrian Interval,no,Queens
+80,47th Ave & Bell Blvd,40.7569078547,-73.7676685181,2022-02-24,81,Leading Pedestrian Interval,no,Queens
+81,57th Ave & Marathon Pkwy,40.7596258791,-73.731388819,2022-02-24,82,Leading Pedestrian Interval,no,Queens
+82,66th St & Maurice Ave,40.7351481112,-73.8990237879,2022-02-24,83,Leading Pedestrian Interval,no,Queens
+83,82nd St & Myrtle Ave,40.7031083664,-73.8665369685,2022-02-24,84,Leading Pedestrian Interval,no,Queens
+84,Groton St & Yellowstone Blvd,40.719029219,-73.8561479947,2022-02-24,85,Leading Pedestrian Interval,no,Queens
+85,Royal Oak Rd & Victory Blvd,40.613740030961935,-74.11414993652801,2022-02-24,86,Traffic Signal,no,Staten Island
+86,Broadway & Steinway St,40.7589746005,-73.9189995514,2022-02-25,87,Leading Pedestrian Interval,no,Queens
+87,Howard Ave & Macdonough St,40.68373005403379,-73.92017995655544,2022-02-28,88,Traffic Signal,no,Brooklyn
+88,Beach 81st St & Rockaway Beach Blvd,40.5880012229,-73.8072846452,2022-02-28,89,Leading Pedestrian Interval,no,Queens
+89,2nd Ave & E 61st St,40.761857295,-73.9634254913,2022-03-01,90,Leading Pedestrian Interval,no,Manhattan
+90,Davidson Ave & W Kingsbridge Rd,40.8676768604,-73.8985441515,2022-03-02,91,Leading Pedestrian Interval,no,Bronx
+91,Clifton Ave & Tompkins Ave,40.61274002800357,-74.07142989061374,2022-03-02,92,Traffic Signal,no,Staten Island
+92,Engert Ave & McGuinness Blvd S,40.7215903335,-73.9457918928,2022-03-04,93,Leading Pedestrian Interval,no,Brooklyn
+93,McGuinness Blvd S & Newton St,40.7213624033,-73.9455467613,2022-03-04,94,Leading Pedestrian Interval,no,Brooklyn
+94,50th St & Fort Hamilton Pkwy,40.6378929949,-73.9983750037,2022-03-05,95,Leading Pedestrian Interval,no,Brooklyn
+95,Avenue N & Ocean Ave,40.6161700041,-73.9545869543,2022-03-05,96,Leading Pedestrian Interval,no,Brooklyn
+96,E 11th St & Neptune Ave,40.5821690902,-73.9589517817,2022-03-05,97,Leading Pedestrian Interval,no,Brooklyn
+97,Glenwood Rd & Remsen Ave,40.6417288071,-73.9076365291,2022-03-05,98,Leading Pedestrian Interval,no,Brooklyn
+98,Sterling Pl & Vanderbilt Ave,40.6759069206,-73.969496832,2022-03-05,99,Leading Pedestrian Interval,no,Brooklyn
+99,Albany St & West St,40.7098353447,-74.0148752026,2022-03-05,100,Leading Pedestrian Interval,no,Manhattan
+100,E 26th St & Park Ave S,40.7420889642,-73.9849768562,2022-03-05,101,Leading Pedestrian Interval,no,Manhattan
+101,E 36th St & Park Ave Tunnel,40.7483655192,-73.9804027483,2022-03-05,102,Leading Pedestrian Interval,no,Manhattan
+102,73rd Pl & Metropolitan Ave,40.712726438,-73.8793411089,2022-03-05,103,Leading Pedestrian Interval,no,Queens
+103,Baxter Ave & Ithaca St,40.7464170366,-73.8834015326,2022-03-05,104,Leading Pedestrian Interval,no,Queens
+104,Highland Ave & Homelawn St,40.7126121882,-73.7932172213,2022-03-05,105,Leading Pedestrian Interval,no,Queens
+105,36th Ave & Vernon Blvd,40.7619942077,-73.9424704735,2022-03-08,106,Leading Pedestrian Interval,no,Queens
+106,E 230th St & Bronxwood Ave,40.88951005176153,-73.8527699251905,2022-03-10,107,Traffic Signal,no,Bronx
+107,10th St & 5th Ave,40.6685789108,-73.9867993947,2022-03-13,108,Leading Pedestrian Interval,no,Brooklyn
+108,11th St & 5th Ave,40.6679751157,-73.9873005693,2022-03-13,109,Leading Pedestrian Interval,no,Brooklyn
+109,5th Ave & 7th St,40.6703847916,-73.9852958139,2022-03-13,110,Leading Pedestrian Interval,no,Brooklyn
+110,5th Ave & 8th St,40.6697837479,-73.9857970164,2022-03-13,111,Leading Pedestrian Interval,no,Brooklyn
+111,Mt Hope Pl & Walton Ave,40.849079220446036,-73.90945055687652,2022-03-15,112,Raised Crosswalk,no,Bronx
+112,Avenue I & Bedford Ave,40.6286468037,-73.9520674548,2022-03-15,113,Leading Pedestrian Interval,no,Brooklyn
+113,Avenue J & Bedford Ave,40.6262531592,-73.9516188651,2022-03-15,114,Leading Pedestrian Interval,no,Brooklyn
+114,Avenue K & Bedford Ave,40.6238649978,-73.951163099,2022-03-15,115,Leading Pedestrian Interval,no,Brooklyn
+115,Avenue M & Bedford Ave,40.6190831818,-73.9502552718,2022-03-15,116,Leading Pedestrian Interval,no,Brooklyn
+116,Avenue N & Bedford Ave,40.6166922732,-73.9498104113,2022-03-15,117,Leading Pedestrian Interval,no,Brooklyn
+117,Avenue R & Bedford Ave,40.6068760604,-73.947948653,2022-03-15,118,Leading Pedestrian Interval,no,Brooklyn
+118,Avenue S & Bedford Ave,40.6045510181,-73.9475111072,2022-03-15,119,Leading Pedestrian Interval,no,Brooklyn
+119,Avenue U & Bedford Ave,40.5999091616,-73.9466325005,2022-03-15,120,Leading Pedestrian Interval,no,Brooklyn
+120,Avenue W & Bedford Ave,40.5953963117,-73.9457755148,2022-03-15,121,Leading Pedestrian Interval,no,Brooklyn
+121,Avenue X & Bedford Ave,40.5932798809,-73.9453739559,2022-03-15,122,Leading Pedestrian Interval,no,Brooklyn
+122,Avenue Y & Bedford Ave,40.5911607043,-73.9449724259,2022-03-15,123,Leading Pedestrian Interval,no,Brooklyn
+123,Avenue Z & Bedford Ave,40.5890415251,-73.9445709202,2022-03-15,124,Leading Pedestrian Interval,no,Brooklyn
+124,Bedford Ave & Belt Pkwy,40.5849925722,-73.9438074296,2022-03-15,125,Leading Pedestrian Interval,no,Brooklyn
+125,Bedford Ave & Glenwood Rd,40.6334286016,-73.9529755419,2022-03-15,126,Leading Pedestrian Interval,no,Brooklyn
+126,Bedford Ave & Gravesend Neck Rd,40.598404879,-73.946345625,2022-03-15,127,Leading Pedestrian Interval,no,Brooklyn
+127,Bedford Ave & Park Ave,40.6967849915,-73.9565804104,2022-03-15,128,Leading Pedestrian Interval,no,Brooklyn
+128,Bedford Ave & Shore Pkwy,40.584707088,-73.9437572667,2022-03-15,129,Leading Pedestrian Interval,no,Brooklyn
+129,Bedford Ave & Voorhies Ave,40.5867850938,-73.9441479528,2022-03-15,130,Leading Pedestrian Interval,no,Brooklyn
+130,E 93rd St & E New York Ave,40.66433005531519,-73.92907994516617,2022-03-15,131,Traffic Signal,no,Brooklyn
+131,Avenue M & Flatbush Ave,40.620850022240006,-73.93497988299232,2022-03-17,132,Traffic Signal,no,Brooklyn
+132,E 12th St & Avenue B,40.7281062547,-73.9789979879,2022-03-18,133,Leading Pedestrian Interval,no,Manhattan
+133,Greenwich St & N Moore St,40.7201149853,-74.0101840866,2022-03-18,134,Leading Pedestrian Interval,no,Manhattan
+134,45th Ave & Union St,40.7529361899,-73.8197794104,2022-03-19,135,Leading Pedestrian Interval,no,Queens
+135,Van Duzer St & Wright St,40.6282608951,-74.0803806738,2022-03-19,136,Leading Pedestrian Interval,no,Staten Island
+136,Hone Ave & Rhinelander Ave,40.850779371,-73.8561919941,2022-03-23,137,Leading Pedestrian Interval,no,Bronx
+137,Amity St & Clinton St,40.6889155872,-73.995002289,2022-03-23,138,Leading Pedestrian Interval,no,Brooklyn
+138,Baltic St & Clinton St,40.6867527482,-73.9960409021,2022-03-23,139,Leading Pedestrian Interval,no,Brooklyn
+139,Clinton St & Congress St,40.6882266633,-73.995334075,2022-03-23,140,Leading Pedestrian Interval,no,Brooklyn
+140,Clinton St & Kane St,40.6860967579,-73.9963582432,2022-03-23,141,Leading Pedestrian Interval,no,Brooklyn
+141,Clinton St & Pacific St,40.6895825513,-73.9946777085,2022-03-23,142,Leading Pedestrian Interval,no,Brooklyn
+142,Clinton St & Warren St,40.6873977579,-73.9957307681,2022-03-23,143,Leading Pedestrian Interval,no,Brooklyn
+143,103rd Ave & 124th St,40.689133074,-73.8208533272,2022-03-23,144,Leading Pedestrian Interval,no,Queens
+144,Beach 101st St & Shore Front Pkwy,40.5822839088,-73.8209311344,2022-03-23,145,Leading Pedestrian Interval,no,Queens
+145,Beach 102nd St & Shore Front Pkwy,40.5820493286,-73.8218785863,2022-03-23,146,Leading Pedestrian Interval,no,Queens
+146,Beach 105th St & Shore Front Pkwy,40.5811841562,-73.825088533,2022-03-23,147,Leading Pedestrian Interval,no,Queens
+147,Beach 108th St & Shore Front Pkwy,40.5801742463,-73.8288531655,2022-03-23,148,Leading Pedestrian Interval,no,Queens
+148,Beach 91st St & Shore Front Pkwy,40.5844560669,-73.8129544218,2022-03-23,149,Leading Pedestrian Interval,no,Queens
+149,Beach 94th St & Shore Front Pkwy,40.5838697336,-73.8153033872,2022-03-23,150,Leading Pedestrian Interval,no,Queens
+150,64th St & Cooper Ave,40.6979337402,-73.892000901,2022-03-26,151,Leading Pedestrian Interval,no,Queens
+151,67th St & Cooper Ave,40.6999644137,-73.8858413966,2022-03-26,152,Leading Pedestrian Interval,no,Queens
+152,69th Pl & Cooper Ave,40.7012804419,-73.8816772139,2022-03-26,153,Leading Pedestrian Interval,no,Queens
+153,70th St & Cooper Ave,40.7017105775,-73.8809082561,2022-03-26,154,Leading Pedestrian Interval,no,Queens
+154,70th St & Myrtle Ave,40.7019302523,-73.8809980275,2022-03-26,155,Leading Pedestrian Interval,no,Queens
+155,73rd Pl & Cooper Ave,40.7044395073,-73.876301237,2022-03-26,156,Leading Pedestrian Interval,no,Queens
+156,74th St & Cooper Ave,40.70617667,-73.8760455375,2022-03-26,157,Leading Pedestrian Interval,no,Queens
+157,78th St & Cooper Ave,40.7075548194,-73.8737742581,2022-03-26,158,Leading Pedestrian Interval,no,Queens
+158,83rd St & Cooper Ave,40.7104013093,-73.8666197568,2022-03-26,159,Leading Pedestrian Interval,no,Queens
+159,88th St & Cooper Ave,40.7107782101,-73.8650102627,2022-03-26,160,Leading Pedestrian Interval,no,Queens
+160,Cooper Ave & Cypress Hills St,40.6988578235,-73.8881802343,2022-03-26,161,Leading Pedestrian Interval,no,Queens
+161,Cooper Ave & Myrtle Ave,40.7019681595,-73.8804966475,2022-03-26,162,Leading Pedestrian Interval,no,Queens
+162,Brandt Pl & Dr Martin Luther King Jr Blvd,40.8483122981,-73.9184353369,2022-03-28,163,Leading Pedestrian Interval,no,Bronx
+163,Dr Martin Luther King Jr Blvd & Morton Pl,40.851040049852344,-73.91488988600433,2022-03-28,164,Traffic Signal,no,Bronx
+164,W 180th St & Dr Martin Luther King Jr Blvd,40.8557280269,-73.9104120149,2022-03-28,165,Leading Pedestrian Interval,no,Bronx
+165,61st St & Fort Hamilton Pkwy,40.6325844154,-74.0063049158,2022-03-28,166,Leading Pedestrian Interval,no,Brooklyn
+166,66th St & Fort Hamilton Pkwy,40.6301138428,-74.0100046298,2022-03-28,167,Leading Pedestrian Interval,no,Brooklyn
+167,67th St & Fort Hamilton Pkwy,40.6296471661,-74.0106998712,2022-03-28,168,Leading Pedestrian Interval,no,Brooklyn
+168,68th St & Fort Hamilton Pkwy,40.6291612685,-74.011427523,2022-03-28,169,Leading Pedestrian Interval,no,Brooklyn
+169,70th St & Fort Hamilton Pkwy,40.6282059309,-74.0128575814,2022-04-01,170,Leading Pedestrian Interval,no,Brooklyn
+170,71st St & Fort Hamilton Pkwy,40.6277282556,-74.0135707934,2022-04-01,171,Leading Pedestrian Interval,no,Brooklyn
+171,76th St & Fort Hamilton Pkwy,40.6252684282,-74.0172627672,2022-04-01,172,Leading Pedestrian Interval,no,Brooklyn
+172,Bay Ridge Ave & Fort Hamilton Pkwy,40.6286836021,-74.0121407566,2022-04-01,173,Leading Pedestrian Interval,no,Brooklyn
+173,Annadale Rd & Arden Ave,40.5444863315,-74.1764993061,2022-04-04,174,Leading Pedestrian Interval,no,Staten Island
+174,E 27th St & Avenue K,40.624072785,-73.9492753158,2022-04-06,175,Leading Pedestrian Interval,no,Brooklyn
+175,W 232nd St & Broadway,40.88016003876933,-73.90396994254736,2022-04-07,176,"Leading Pedestrian Interval, Traffic Signal",no,Bronx
+176,49th St & Fort Hamilton Pkwy,40.6383733201,-73.9976579711,2022-04-08,177,Leading Pedestrian Interval,no,Brooklyn
+177,51st St & Fort Hamilton Pkwy,40.6374154099,-73.9990920259,2022-04-08,178,Leading Pedestrian Interval,no,Brooklyn
+178,52nd St & Fort Hamilton Pkwy,40.6369350757,-73.9998090391,2022-04-08,179,Leading Pedestrian Interval,no,Brooklyn
+179,53rd St & Fort Hamilton Pkwy,40.636454737,-74.0005260408,2022-04-08,180,Leading Pedestrian Interval,no,Brooklyn
+180,54th St & Fort Hamilton Pkwy,40.6359771387,-74.0012394292,2022-04-08,181,Leading Pedestrian Interval,no,Brooklyn
+181,55th St & Fort Hamilton Pkwy,40.6354995357,-74.0019600133,2022-04-08,182,Leading Pedestrian Interval,no,Brooklyn
+182,56th St & Fort Hamilton Pkwy,40.6350191836,-74.0026733811,2022-04-08,183,Leading Pedestrian Interval,no,Brooklyn
+183,57th St & Fort Hamilton Pkwy,40.6345388269,-74.0033903427,2022-04-08,184,Leading Pedestrian Interval,no,Brooklyn
+184,58th St & Fort Hamilton Pkwy,40.6340612106,-74.004107293,2022-04-08,185,Leading Pedestrian Interval,no,Brooklyn
+185,59th St & Fort Hamilton Pkwy,40.6335808451,-74.00482063,2022-04-08,186,Leading Pedestrian Interval,no,Brooklyn
+186,E 96th St & Lexington Ave,40.7858663663,-73.9509287179,2022-04-08,187,Leading Pedestrian Interval,no,Manhattan
+187,W 34th St & 5th Ave,40.7484375148,-73.9845603806,2022-04-08,188,Leading Pedestrian Interval,yes,Manhattan
+188,W 34th St & 9th Ave,40.7533872698,-73.9963040337,2022-04-08,189,Leading Pedestrian Interval,no,Manhattan
+189,74th St & Roosevelt Ave,40.746844831,-73.8914307892,2022-04-08,190,Leading Pedestrian Interval,no,Queens
+190,E 37th St & Foster Ave,40.6390254631,-73.941531574,2022-04-12,191,Leading Pedestrian Interval,no,Brooklyn
+191,101st Ave & Woodhaven Blvd,40.684239984,-73.8460948995,2022-04-13,192,Leading Pedestrian Interval,no,Queens
+192,Central Ave & Foam Pl,40.6052859632,-73.75183883,2022-04-13,193,Leading Pedestrian Interval,no,Queens
+193,Central Ave & Nameoke St,40.6066876413,-73.7501481523,2022-04-13,194,Leading Pedestrian Interval,no,Queens
+194,Central Ave & Neilson St,40.607147558,-73.7495918076,2022-04-13,195,Leading Pedestrian Interval,no,Queens
+195,Baltic St & Smith St,40.6848119684,-73.991761134,2022-04-14,196,Leading Pedestrian Interval,no,Brooklyn
+196,Hugh J Grant Cir & Westchester Ave,40.8330029323,-73.8615425061,2022-04-15,197,Leading Pedestrian Interval,no,Bronx
+197,175th St & 64th Ave,40.73799005278292,-73.79398990133497,2022-04-15,198,"Leading Pedestrian Interval, Traffic Signal",no,Queens
+198,193rd St & Union Tpke,40.7301934572,-73.7775756851,2022-04-15,199,Leading Pedestrian Interval,no,Queens
+199,12th St & 5th Ave,40.6673740644,-73.9878053402,2022-04-16,200,Leading Pedestrian Interval,no,Brooklyn
+200,13th St & 5th Ave,40.6667702657,-73.9883064979,2022-04-16,201,Leading Pedestrian Interval,no,Brooklyn
+201,14th St & 5th Ave,40.6661692086,-73.988807646,2022-04-16,202,Leading Pedestrian Interval,no,Brooklyn
+202,15th St & 5th Ave,40.6655654058,-73.9893123901,2022-04-16,203,Leading Pedestrian Interval,no,Brooklyn
+203,16th St & 5th Ave,40.6649643452,-73.9898135202,2022-04-16,204,Leading Pedestrian Interval,no,Brooklyn
+204,17th St & 5th Ave,40.6635893163,-73.9910897171,2022-04-16,205,Leading Pedestrian Interval,no,Brooklyn
+205,18th St & 5th Ave,40.6630294254,-73.9916737133,2022-04-16,206,Leading Pedestrian Interval,no,Brooklyn
+206,19th St & 5th Ave,40.6624695313,-73.9922540953,2022-04-16,207,Leading Pedestrian Interval,no,Brooklyn
+207,1st St & 5th Ave,40.673999236,-73.9822775936,2022-04-16,208,Leading Pedestrian Interval,no,Brooklyn
+208,20th St & 5th Ave,40.6619096344,-73.992838072,2022-04-16,209,Leading Pedestrian Interval,no,Brooklyn
+209,21st St & 5th Ave,40.6613497336,-73.9934220388,2022-04-16,210,Leading Pedestrian Interval,no,Brooklyn
+210,22nd St & 5th Ave,40.6607898306,-73.9940023915,2022-04-16,211,Leading Pedestrian Interval,no,Brooklyn
+211,23rd St & 5th Ave,40.6602271799,-73.994586339,2022-04-16,212,Leading Pedestrian Interval,no,Brooklyn
+212,24th St & 5th Ave,40.6596700159,-73.9951702762,2022-04-16,213,Leading Pedestrian Interval,no,Brooklyn
+213,25th St & 5th Ave,40.6591073592,-73.9957542041,2022-04-16,214,Leading Pedestrian Interval,no,Brooklyn
+214,27th St & 5th Ave,40.6579902703,-73.9969184256,2022-04-16,215,Leading Pedestrian Interval,no,Brooklyn
+215,29th St & 5th Ave,40.6568649361,-73.9980898167,2022-04-16,216,Leading Pedestrian Interval,no,Brooklyn
+216,31st St & 5th Ave,40.6557450785,-73.9992575641,2022-04-16,217,Leading Pedestrian Interval,no,Brooklyn
+217,33rd St & 5th Ave,40.6546279546,-74.0004144603,2022-04-16,218,Leading Pedestrian Interval,no,Brooklyn
+218,36th St & 5th Ave,40.6529481283,-74.0021659495,2022-04-16,219,Leading Pedestrian Interval,no,Brooklyn
+219,37th St & 5th Ave,40.6523854358,-74.0027497595,2022-04-16,220,Leading Pedestrian Interval,no,Brooklyn
+220,38th St & 5th Ave,40.6518337186,-74.0033263525,2022-04-16,221,Leading Pedestrian Interval,no,Brooklyn
+221,39th St & 5th Ave,40.6512655306,-74.0039065388,2022-04-16,222,Leading Pedestrian Interval,no,Brooklyn
+222,40th St & 5th Ave,40.6507055739,-74.0044903196,2022-04-16,223,Leading Pedestrian Interval,no,Brooklyn
+223,41st St & 5th Ave,40.6501456142,-74.0050740906,2022-04-16,224,Leading Pedestrian Interval,no,Brooklyn
+224,44th St & 5th Ave,40.6484657163,-74.0068217411,2022-04-16,225,Leading Pedestrian Interval,no,Brooklyn
+225,45th St & 5th Ave,40.6479057446,-74.0074054717,2022-04-16,226,Leading Pedestrian Interval,no,Brooklyn
+226,46th St & 5th Ave,40.6473457689,-74.0079891937,2022-04-16,227,Leading Pedestrian Interval,no,Brooklyn
+227,47th St & 5th Ave,40.6467885363,-74.0085693027,2022-04-16,228,Leading Pedestrian Interval,no,Brooklyn
+228,48th St & 5th Ave,40.6462258108,-74.0091530048,2022-04-16,229,Leading Pedestrian Interval,no,Brooklyn
+229,49th St & 5th Ave,40.6456658271,-74.0097366975,2022-04-16,230,Leading Pedestrian Interval,no,Brooklyn
+230,50th St & 5th Ave,40.6451058395,-74.0103203803,2022-04-16,231,Leading Pedestrian Interval,no,Brooklyn
+231,51st St & 5th Ave,40.6445458502,-74.0109004499,2022-04-16,232,Leading Pedestrian Interval,no,Brooklyn
+232,52nd St & 5th Ave,40.6439858575,-74.0114841132,2022-04-16,233,Leading Pedestrian Interval,no,Brooklyn
+233,53rd St & 5th Ave,40.6434258623,-74.0120641633,2022-04-16,234,Leading Pedestrian Interval,no,Brooklyn
+234,54th St & 5th Ave,40.6428658627,-74.0126478071,2022-04-16,235,Leading Pedestrian Interval,no,Brooklyn
+235,55th St & 5th Ave,40.6423058611,-74.013231441,2022-04-16,236,Leading Pedestrian Interval,no,Brooklyn
+236,56th St & 5th Ave,40.6417458565,-74.0138150651,2022-04-16,237,Leading Pedestrian Interval,no,Brooklyn
+237,57th St & 5th Ave,40.6411858493,-74.0143950762,2022-04-16,238,Leading Pedestrian Interval,no,Brooklyn
+238,58th St & 5th Ave,40.6406258378,-74.0149786808,2022-04-16,239,Leading Pedestrian Interval,no,Brooklyn
+239,59th St & 5th Ave,40.6400658242,-74.0155622756,2022-04-16,240,Leading Pedestrian Interval,no,Brooklyn
+240,5th Ave & 5th St,40.6715923595,-73.9842897758,2022-04-16,241,Leading Pedestrian Interval,no,Brooklyn
+241,5th Ave & 60th St,40.6394811015,-74.0161674736,2022-04-16,242,Leading Pedestrian Interval,no,Brooklyn
+242,5th Ave & 61st St,40.6388991209,-74.0167690586,2022-04-16,243,Leading Pedestrian Interval,no,Brooklyn
+243,5th Ave & 62nd St,40.638341842,-74.017352624,2022-04-16,244,Leading Pedestrian Interval,no,Brooklyn
+244,5th Ave & 66th St,40.6360797587,-74.0197047932,2022-04-16,245,Leading Pedestrian Interval,no,Brooklyn
+245,5th Ave & 67th St,40.6355664062,-74.0201514102,2022-04-16,246,Leading Pedestrian Interval,no,Brooklyn
+246,5th Ave & 68th St,40.6341692083,-74.0207202456,2022-04-16,247,Leading Pedestrian Interval,no,Brooklyn
+247,5th Ave & 6th St,40.6709885764,-73.984790997,2022-04-16,248,Leading Pedestrian Interval,no,Brooklyn
+248,5th Ave & 72nd St,40.6316877328,-74.021735454,2022-04-16,249,Leading Pedestrian Interval,no,Brooklyn
+249,5th Ave & 73rd St,40.6309877565,-74.0220234433,2022-04-16,250,Leading Pedestrian Interval,no,Brooklyn
+250,5th Ave & 74th St,40.6303234653,-74.0222970289,2022-04-16,251,Leading Pedestrian Interval,no,Brooklyn
+251,5th Ave & 76th St,40.6287011642,-74.022959365,2022-04-16,252,Leading Pedestrian Interval,no,Brooklyn
+252,5th Ave & 77th St,40.6279709898,-74.0232581257,2022-04-16,253,Leading Pedestrian Interval,no,Brooklyn
+253,5th Ave & 78th St,40.6272435603,-74.023556882,2022-04-16,254,Leading Pedestrian Interval,no,Brooklyn
+254,5th Ave & 79th St,40.626513385,-74.0238520272,2022-04-16,255,Leading Pedestrian Interval,no,Brooklyn
+255,5th Ave & 80th St,40.6257804634,-74.0241543709,2022-04-16,256,Leading Pedestrian Interval,no,Brooklyn
+256,5th Ave & 81st St,40.6250475417,-74.024449502,2022-04-16,257,Leading Pedestrian Interval,no,Brooklyn
+257,5th Ave & 82nd St,40.6243201071,-74.0247518346,2022-04-16,258,Leading Pedestrian Interval,no,Brooklyn
+258,5th Ave & 83rd St,40.6235899294,-74.0250469538,2022-04-16,259,Leading Pedestrian Interval,no,Brooklyn
+259,5th Ave & 85th St,40.6221405433,-74.0256623938,2022-04-16,260,Leading Pedestrian Interval,no,Brooklyn
+260,5th Ave & 88th St,40.6203231327,-74.0272214252,2022-04-16,261,Leading Pedestrian Interval,no,Brooklyn
+261,5th Ave & 89th St,40.6197493535,-74.0277146813,2022-04-16,262,Leading Pedestrian Interval,no,Brooklyn
+262,5th Ave & 90th St,40.6191728283,-74.0282043257,2022-04-16,263,Leading Pedestrian Interval,no,Brooklyn
+263,5th Ave & Bay Ridge Ave,40.633469235,-74.0210118603,2022-04-16,264,Leading Pedestrian Interval,no,Brooklyn
+264,5th Ave & Bay Ridge Pkwy,40.6294862377,-74.0226389994,2022-04-16,265,Leading Pedestrian Interval,no,Brooklyn
+265,5th Ave & Bergen St,40.6814860495,-73.9770224619,2022-04-16,266,Leading Pedestrian Interval,no,Brooklyn
+266,5th Ave & Berkeley Pl,40.677048312,-73.9800307367,2022-04-16,267,Leading Pedestrian Interval,no,Brooklyn
+267,5th Ave & Carroll St,40.6751464009,-73.9813255398,2022-04-16,268,Leading Pedestrian Interval,no,Brooklyn
+268,5th Ave & Degraw St,40.6776795347,-73.979597918,2022-04-16,269,Leading Pedestrian Interval,no,Brooklyn
+269,5th Ave & Douglass St,40.6783107567,-73.979175908,2022-04-16,270,Leading Pedestrian Interval,no,Brooklyn
+270,5th Ave & Garfield Pl,40.6746030079,-73.981776327,2022-04-16,271,Leading Pedestrian Interval,no,Brooklyn
+271,5th Ave & Ovington Ave,40.6325798566,-74.0213754632,2022-04-16,272,Leading Pedestrian Interval,no,Brooklyn
+272,5th Ave & Park Pl,40.6796802272,-73.9782489041,2022-04-16,273,Leading Pedestrian Interval,no,Brooklyn
+273,5th Ave & President St,40.6757776279,-73.9808891417,2022-04-16,274,Leading Pedestrian Interval,no,Brooklyn
+274,5th Ave & Prospect Ave,40.6641656769,-73.9905453583,2022-04-16,275,Leading Pedestrian Interval,no,Brooklyn
+275,5th Ave & Saint Marks Ave,40.680852093,-73.9774553306,2022-04-16,276,Leading Pedestrian Interval,no,Brooklyn
+276,5th Ave & Sterling Pl,40.6790462652,-73.9786781442,2022-04-16,277,Leading Pedestrian Interval,no,Brooklyn
+277,5th Ave & Union St,40.6764115984,-73.9804599437,2022-04-16,278,Leading Pedestrian Interval,no,Brooklyn
+278,5th Ave & Warren St,40.6802181331,-73.9778845858,2022-04-16,279,Leading Pedestrian Interval,no,Brooklyn
+279,19th Ave & 76th St,40.6115703394,-73.9945974882,2022-04-19,280,Leading Pedestrian Interval,no,Brooklyn
+280,W 106th St & Columbus Ave,40.79925003033097,-73.96287988590211,2022-04-20,281,Traffic Signal,no,Manhattan
+281,E 21st St & Farragut Rd,40.6354000422337,-73.95715990753712,2022-04-21,282,"Leading Pedestrian Interval, Traffic Signal",no,Brooklyn
+282,Alaska St & Castleton Ave,40.6343003426,-74.1202396671,2022-04-22,283,Leading Pedestrian Interval,no,Staten Island
+283,Bard Ave & Castleton Ave,40.634698127,-74.1065348538,2022-04-22,284,Leading Pedestrian Interval,no,Staten Island
+284,Castleton Ave & Conyingham Ave,40.6346633423,-74.102528347,2022-04-22,285,Leading Pedestrian Interval,no,Staten Island
+285,Castleton Ave & Davis Ave,40.6347205852,-74.1089308359,2022-04-22,286,Leading Pedestrian Interval,no,Staten Island
+286,Castleton Ave & Jewett Ave,40.6336727748,-74.12944027,2022-04-22,287,Leading Pedestrian Interval,no,Staten Island
+287,Castleton Ave & Kissel Ave,40.6346999492,-74.1045496451,2022-04-22,288,Leading Pedestrian Interval,no,Staten Island
+288,Castleton Ave & Oakland Ave,40.6347403959,-74.1111754927,2022-04-22,289,Leading Pedestrian Interval,no,Staten Island
+289,Castleton Ave & Rector St,40.633671117,-74.128471094,2022-04-22,290,Leading Pedestrian Interval,no,Staten Island
+290,Castleton Ave & Taylor St,40.634077767,-74.1230675373,2022-04-22,291,Leading Pedestrian Interval,no,Staten Island
+291,Howard Ave & Martha St,40.61347880048257,-74.09792290245701,2022-04-22,292,Raised Crosswalk,no,Staten Island
+292,Innis St & Morningstar Rd,40.6345753946,-74.1458389134,2022-04-22,293,Leading Pedestrian Interval,no,Staten Island
+293,Morningstar Rd & Walker St,40.6311567628,-74.146912264,2022-04-22,294,Leading Pedestrian Interval,no,Staten Island
+294,E 151st St & Melrose Ave,40.8175129303,-73.9171182779,2022-04-28,295,Leading Pedestrian Interval,no,Bronx
+295,E 16th St & Voorhies Ave,40.5858119029,-73.9529910695,2022-05-04,296,Leading Pedestrian Interval,no,Brooklyn
+296,E 18th St & Voorhies Ave,40.5860251942,-73.9510683607,2022-05-04,297,Leading Pedestrian Interval,no,Brooklyn
+297,Sheepshead Bay Rd & Voorhies Ave,40.5859349626,-73.9518892943,2022-05-04,298,Leading Pedestrian Interval,no,Brooklyn
+298,34th Ave & 48th St,40.7536767079,-73.9144654198,2022-05-05,299,Leading Pedestrian Interval,no,Queens
+299,Grand Ave & Van Kleeck St,40.73510005638707,-73.88181992521594,2022-05-06,300,Traffic Signal,no,Queens
+300,Avenue U & Batchelder St,40.6007425489,-73.9390407336,2022-05-09,301,Leading Pedestrian Interval,no,Brooklyn
+301,Avenue U & Bragg St,40.6010539118,-73.9361955736,2022-05-09,302,Leading Pedestrian Interval,no,Brooklyn
+302,Avenue U & Brown St,40.600638734,-73.9399663068,2022-05-09,303,Leading Pedestrian Interval,no,Brooklyn
+303,Avenue U & Coleman St,40.6088088564,-73.9241158444,2022-05-09,304,Leading Pedestrian Interval,no,Brooklyn
+304,Avenue U & Coyle St,40.6009501347,-73.9371499654,2022-05-09,305,Leading Pedestrian Interval,no,Brooklyn
+305,Avenue U & Haring St,40.6005376556,-73.9408918759,2022-05-09,306,Leading Pedestrian Interval,no,Brooklyn
+306,Avenue U & Hendrickson St,40.6092530184,-73.9233698176,2022-05-09,307,Leading Pedestrian Interval,no,Brooklyn
+307,Avenue U & Homecrest Ave,40.5985254368,-73.9591829921,2022-05-09,308,Leading Pedestrian Interval,no,Brooklyn
+308,Avenue U & Kimball St,40.6083427053,-73.9248222684,2022-05-09,309,Leading Pedestrian Interval,no,Brooklyn
+309,Avenue U & Ryder St,40.6078765499,-73.9255286825,2022-05-09,310,Leading Pedestrian Interval,no,Brooklyn
+310,Avenue U & Stuart St,40.602230341,-73.9342642215,2022-05-09,311,Leading Pedestrian Interval,no,Brooklyn
+311,Coney Island Ave & Elm Ave,40.61658973545885,-73.9636224552717,2022-05-09,312,Raised Crosswalk,no,Brooklyn
+312,E 12th St & Avenue U,40.5984187398,-73.9601805252,2022-05-09,313,Leading Pedestrian Interval,no,Brooklyn
+313,E 13th St & Avenue U,40.5986294064,-73.9582574769,2022-05-09,314,Leading Pedestrian Interval,no,Brooklyn
+314,E 14th St & Avenue U,40.5987306239,-73.9573319618,2022-05-09,315,Leading Pedestrian Interval,no,Brooklyn
+315,E 15th St & Avenue U,40.5988345782,-73.9564028399,2022-05-09,316,Leading Pedestrian Interval,no,Brooklyn
+316,E 16th St & Avenue U,40.5989385254,-73.9554773173,2022-05-09,317,Leading Pedestrian Interval,yes,Brooklyn
+317,E 17th St & Avenue U,40.59903696,-73.9545121835,2022-05-09,318,Leading Pedestrian Interval,no,Brooklyn
+318,E 18th St & Avenue U,40.5991463671,-73.9535506402,2022-05-09,319,Leading Pedestrian Interval,no,Brooklyn
+319,E 19th St & Avenue U,40.5992502849,-73.9526071038,2022-05-09,320,Leading Pedestrian Interval,no,Brooklyn
+320,E 21st St & Avenue U,40.5994963737,-73.950374294,2022-05-09,321,Leading Pedestrian Interval,no,Brooklyn
+321,E 22nd St & Avenue U,40.5995975277,-73.9494487538,2022-05-09,322,Leading Pedestrian Interval,no,Brooklyn
+322,E 23rd St & Avenue U,40.5996986734,-73.9485196109,2022-05-09,323,Leading Pedestrian Interval,no,Brooklyn
+323,E 24th St & Avenue U,40.5998025572,-73.9475940628,2022-05-09,324,Leading Pedestrian Interval,no,Brooklyn
+324,E 26th St & Avenue U,40.6000130115,-73.9456673352,2022-05-09,325,Leading Pedestrian Interval,no,Brooklyn
+325,E 27th St & Avenue U,40.6001113836,-73.9447417829,2022-05-09,326,Leading Pedestrian Interval,no,Brooklyn
+326,E 28th St & Avenue U,40.6002179817,-73.9438162221,2022-05-09,327,Leading Pedestrian Interval,no,Brooklyn
+327,E 29th St & Avenue U,40.6003190828,-73.9428906619,2022-05-09,328,Leading Pedestrian Interval,no,Brooklyn
+328,E 33rd St & Avenue U,40.6042294844,-73.9311651517,2022-05-09,329,Leading Pedestrian Interval,no,Brooklyn
+329,E 36th St & Avenue U,40.6064808294,-73.9276910806,2022-05-09,330,Leading Pedestrian Interval,no,Brooklyn
+330,E 37th St & Avenue U,40.6069607084,-73.9269630717,2022-05-09,331,Leading Pedestrian Interval,no,Brooklyn
+331,E 38th St & Avenue U,40.6074131441,-73.9262494895,2022-05-09,332,Leading Pedestrian Interval,no,Brooklyn
+332,E 54th St & Avenue U,40.6111613825,-73.9204070673,2022-05-09,333,Leading Pedestrian Interval,no,Brooklyn
+333,E 55th St & Avenue U,40.6116055506,-73.9197042108,2022-05-09,334,Leading Pedestrian Interval,no,Brooklyn
+334,E 7th St & Avenue U,40.5979863547,-73.9641058093,2022-05-09,335,Leading Pedestrian Interval,no,Brooklyn
+335,E 8th St & Avenue U,40.5981012958,-73.9630326647,2022-05-09,336,Leading Pedestrian Interval,no,Brooklyn
+336,E 9th St & Avenue U,40.5982052953,-73.9621035616,2022-05-09,337,Leading Pedestrian Interval,no,Brooklyn
+337,86th St & Avenue W,40.591930025532804,-73.9772699372737,2022-05-11,338,Traffic Signal,no,Brooklyn
+338,16th St & Prospect Park SW,40.6573478493,-73.9740429387,2022-05-12,339,Leading Pedestrian Interval,no,Brooklyn
+339,86th St & Bay 34th St,40.60013004140936,-73.99086991045199,2022-05-12,340,Traffic Signal,no,Brooklyn
+340,Abingdon Rd & Park Ln S,40.7096436745,-73.8348113245,2022-05-12,341,Leading Pedestrian Interval,no,Queens
+341,Andrews Ave S & W Burnside Ave,40.853812097,-73.9138486498,2022-05-13,342,Leading Pedestrian Interval,no,Bronx
+342,E 175th St & Townsend Ave,40.8473190699,-73.9114715282,2022-05-13,343,Leading Pedestrian Interval,no,Bronx
+343,E 176th St & Webster Ave,40.8468635248,-73.9014132136,2022-05-13,344,Leading Pedestrian Interval,no,Bronx
+344,E 179th St & Webster Ave,40.8504572719,-73.899307797,2022-05-13,345,Leading Pedestrian Interval,no,Bronx
+345,E 182nd St & Webster Ave,40.8549066449,-73.8964417114,2022-05-13,346,Leading Pedestrian Interval,no,Bronx
+346,E 183rd St & Webster Ave,40.8562452828,-73.895579275,2022-05-13,347,Leading Pedestrian Interval,no,Bronx
+347,E 184th St & Webster Ave,40.8567445338,-73.8952639897,2022-05-13,348,Leading Pedestrian Interval,no,Bronx
+348,E 188th St & Webster Ave,40.8598743621,-73.8932165161,2022-05-13,349,Leading Pedestrian Interval,no,Bronx
+349,E Burnside Ave & Morris Ave,40.853149659,-73.9056006303,2022-05-13,350,Leading Pedestrian Interval,no,Bronx
+350,E Burnside Ave & Walton Ave,40.853474225,-73.9064496414,2022-05-13,351,Leading Pedestrian Interval,no,Bronx
+351,Hall of Fame Ter & Sedgwick Ave,40.8596194643,-73.9132844001,2022-05-13,352,Leading Pedestrian Interval,no,Bronx
+352,W 176th St & Grand Ave,40.8486082249,-73.9139674393,2022-05-13,353,Leading Pedestrian Interval,no,Bronx
+353,W 176th St & Macombs Rd,40.849005054,-73.9161284169,2022-05-13,354,Leading Pedestrian Interval,no,Bronx
+354,W Burnside Ave & Hennessy Pl,40.8541755613,-73.9154206221,2022-05-13,355,Leading Pedestrian Interval,no,Bronx
+355,W Burnside Ave & Loring Pl S,40.8539417129,-73.9146762708,2022-05-13,356,Leading Pedestrian Interval,no,Bronx
+356,W Burnside Ave & Osborne Pl,40.8546538243,-73.9163598726,2022-05-13,357,Leading Pedestrian Interval,no,Bronx
+357,W Burnside Ave & Sedgwick Ave,40.854873711,-73.9167897638,2022-05-13,358,Leading Pedestrian Interval,no,Bronx
+358,E 79th St & E End Ave,40.7703930345,-73.948073569,2022-05-13,359,Leading Pedestrian Interval,no,Manhattan
+359,E 80th St & E End Ave,40.7710789964,-73.9475820329,2022-05-13,360,Leading Pedestrian Interval,no,Manhattan
+360,E 81st St & E End Ave,40.7717128204,-73.9471194119,2022-05-13,361,Leading Pedestrian Interval,no,Manhattan
+361,E 83rd St & E End Ave,40.7729859503,-73.9461941367,2022-05-13,362,Leading Pedestrian Interval,no,Manhattan
+362,E 84th St & E End Ave,40.7736197668,-73.9457278776,2022-05-13,363,Leading Pedestrian Interval,no,Manhattan
+363,E 86th St & E End Ave,40.7749340397,-73.9447664113,2022-05-13,364,Leading Pedestrian Interval,no,Manhattan
+364,E 87th St & E End Ave,40.7756062651,-73.9442784296,2022-05-13,365,Leading Pedestrian Interval,no,Manhattan
+365,E 88th St & E End Ave,40.7762373324,-73.9438193574,2022-05-13,366,Leading Pedestrian Interval,no,Manhattan
+366,64th Pl & Cooper Ave,40.69812002158636,-73.89110992378141,2022-05-13,367,Traffic Signal,no,Queens
+367,Huguenot Ave & Vineland Ave,40.5432612128,-74.1973069092,2022-05-16,368,Leading Pedestrian Interval,no,Staten Island
+368,19th St & Prospect Park W,40.6571492164,-73.9834389975,2022-05-18,369,Leading Pedestrian Interval,no,Brooklyn
+369,E Burnside Ave & Creston Ave,40.8528195994,-73.9047552488,2022-05-20,370,Leading Pedestrian Interval,no,Bronx
+370,E Burnside Ave & Valentine Ave,40.8502526188,-73.9006924985,2022-05-20,371,Leading Pedestrian Interval,no,Bronx
+371,W Burnside Ave & Davidson Ave,40.853816212,-73.9084987493,2022-05-20,372,Leading Pedestrian Interval,no,Bronx
+372,W Burnside Ave & Grand Ave,40.8539596721,-73.9094311702,2022-05-20,373,Leading Pedestrian Interval,no,Bronx
+373,W Burnside Ave & Harrison Ave,40.8544706896,-73.9100739139,2022-05-20,374,Leading Pedestrian Interval,no,Bronx
+374,Amersfort Pl & Glenwood Rd,40.6336364051,-73.951058671,2022-05-20,375,Leading Pedestrian Interval,no,Brooklyn
+375,Bergen Ave & Ralph Ave,40.62977004359931,-73.91837994284852,2022-05-20,376,"Leading Pedestrian Interval, Traffic Signal",no,Brooklyn
+376,E 23rd St & Glenwood Rd,40.6332180076,-73.9548599784,2022-05-20,377,Leading Pedestrian Interval,no,Brooklyn
+377,E 24th St & Glenwood Rd,40.6333191973,-73.9539339773,2022-05-20,378,Leading Pedestrian Interval,no,Brooklyn
+378,E 17th St & Foster Ave,40.6349084031,-73.961308087,2022-05-25,379,Leading Pedestrian Interval,no,Brooklyn
+379,E 150th St & Courtlandt Ave,40.8172207509,-73.9192393594,2022-05-27,380,Leading Pedestrian Interval,no,Bronx
+380,Amboy Rd & Ridgecrest Ave,40.54375004979957,-74.16348992575122,2022-05-27,381,"Leading Pedestrian Interval, Traffic Signal",no,Staten Island
+381,85th St & Rockaway Blvd,40.68332005323998,-73.8550299377437,2022-06-14,382,Traffic Signal,no,Queens
+382,165th St & Northern Blvd,40.76017003541821,-73.80117989787887,2022-06-17,383,Traffic Signal,no,Queens

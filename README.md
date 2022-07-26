@@ -8,4 +8,4 @@ The city didn't say when the 1,000 intersections would be completed, but did sta
 
 The 1,000 Intersections Tracker compiles changes from NYC Open Data's Raised Crosswalks, Leading Pedestrian Interval Signals (LPIs), Bicycle Parking (to get Bike Corral locations), Left Turn Calming, and Traffic Signal and All-Way Stop Study Requests datasets. There are some intersection changes that NYC DOT could implement that we believe wouldn't show up in any of these datasets, including adding Barnes Dances (or any other non-LPI signal changes), pedestrian islands, and any bulb-outs that might not be classified as turn calming.
 
-This repository provides a history of the data behind the 1,000 Intersections Tracker.
+This repository provides a history of the data behind the 1,000 Intersections Tracker in both an indexed and unindexed format.

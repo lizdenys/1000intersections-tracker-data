@@ -381,4 +381,10 @@ index,intersection,latitude,longitude,date,number,elements,vz_priority,borough
 379,E 150th St & Courtlandt Ave,40.8172207509,-73.9192393594,2022-05-27,380,Leading Pedestrian Interval,no,Bronx
 380,Amboy Rd & Ridgecrest Ave,40.54375004979957,-74.16348992575122,2022-05-27,381,"Leading Pedestrian Interval, Traffic Signal",no,Staten Island
 381,85th St & Rockaway Blvd,40.68332005323998,-73.8550299377437,2022-06-14,382,Traffic Signal,no,Queens
-382,165th St & Northern Blvd,40.76017003541821,-73.80117989787887,2022-06-17,383,Traffic Signal,no,Queens
+382,Beach 110th St & Rockaway Beach Blvd,40.58125005596375,-73.83202991161124,2022-06-14,383,Traffic Signal,no,Queens
+383,165th St & Northern Blvd,40.76017003541821,-73.80117989787887,2022-06-17,384,Traffic Signal,no,Queens
+384,31st Pl & Hunters Point Ave,40.74008003843019,-73.93544994012241,2022-06-25,385,Traffic Signal,no,Queens
+385,E 211th St & White Plains Rd,40.87786004453798,-73.86587989230914,2022-07-01,386,Traffic Signal,no,Bronx
+386,E 56th St & Avenue L,40.62393003638084,-73.9215898764886,2022-07-01,387,Traffic Signal,no,Brooklyn
+387,Willoughby Ave & Wilson Ave,40.700900047412574,-73.9260999271302,2022-07-11,388,Traffic Signal,no,Brooklyn
+388,Bainbridge Ave & Mosholu Pkwy N,40.87258003227066,-73.88126990472956,2022-07-15,389,Traffic Signal,no,Bronx

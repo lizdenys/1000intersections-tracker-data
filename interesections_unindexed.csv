@@ -16,7 +16,7 @@ Dr Martin Luther King Jr Blvd & Ogden Ave,40.8442372152,-73.9236232015,2022-02-1
 E 150th St & Grand Concourse,40.8194792631,-73.9268779622,2022-02-18,Leading Pedestrian Interval,no,Bronx
 E 151st St & Grand Concourse,40.820025301,-73.9266244544,2022-02-18,Leading Pedestrian Interval,no,Bronx
 E 158th St & Concourse Vlg E,40.8238603387,-73.9194011196,2022-02-18,Leading Pedestrian Interval,no,Bronx
-E 163rd St & Grant Ave,40.8275485826,-73.9184680162,2022-02-18,Leading Pedestrian Interval,no,Bronx
+E 163rd St & Grant Ave,40.8275485826,-73.9184680162,2022-02-18,"Leading Pedestrian Interval (added on 2022-02-18), Raised Crosswalk (added on 2022-08-02)",no,Bronx
 E 164th St & Grant Ave,40.8287585259,-73.9177980488,2022-02-18,Leading Pedestrian Interval,no,Bronx
 E 164th St & River Ave,40.8306815074,-73.9242602904,2022-02-18,Leading Pedestrian Interval,no,Bronx
 E 164th St & Walton Ave,40.8300517403,-73.9224145077,2022-02-18,Leading Pedestrian Interval,no,Bronx
@@ -338,7 +338,7 @@ E 7th St & Avenue U,40.5979863547,-73.9641058093,2022-05-09,Leading Pedestrian I
 E 8th St & Avenue U,40.5981012958,-73.9630326647,2022-05-09,Leading Pedestrian Interval,no,Brooklyn
 E 9th St & Avenue U,40.5982052953,-73.9621035616,2022-05-09,Leading Pedestrian Interval,no,Brooklyn
 Howard Ave & Martha St,40.61347880048257,-74.09792290245701,2022-05-10,Raised Crosswalk,no,Staten Island
-86th St & Avenue W,40.591930025532804,-73.9772699372737,2022-05-11,Traffic Signal,no,Brooklyn
+86th St & Avenue W,40.591930025532804,-73.9772699372737,2022-05-11,"Leading Pedestrian Interval (added on 2022-05-22), Traffic Signal (added on 2022-05-11)",no,Brooklyn
 16th St & Prospect Park SW,40.6573478493,-73.9740429387,2022-05-12,Leading Pedestrian Interval,no,Brooklyn
 86th St & Bay 34th St,40.60013004140936,-73.99086991045199,2022-05-12,Traffic Signal,no,Brooklyn
 Abingdon Rd & Park Ln S,40.7096436745,-73.8348113245,2022-05-12,Leading Pedestrian Interval,no,Queens

@@ -1,5 +1,8 @@
 intersection,latitude,longitude,date,elements,vz_priority,borough
+Elmwood Ave & Ocean Pkwy,40.62755566783823,-73.97139308697282,2022-01-25,Raised Crosswalk,no,Brooklyn
+W 181st St & Fort Washington Ave,40.85090854449848,-73.9382841649875,2022-01-25,Raised Crosswalk,no,Manhattan
 W 22nd St & 5th Ave,40.7408790804,-73.9900689543,2022-01-25,Leading Pedestrian Interval,no,Manhattan
+Hill St & Warren St,40.62082821730664,-74.08189136568524,2022-01-25,Raised Crosswalk,no,Staten Island
 Avenue P & Bedford Ave,40.6114767286,-73.9488202711,2022-01-26,Leading Pedestrian Interval,no,Brooklyn
 Bedford Ave & Quentin Rd,40.6093328623,-73.9484149398,2022-01-26,Leading Pedestrian Interval,no,Brooklyn
 Parkside Ave & St Paul Pl,40.6539938121,-73.9641477549,2022-01-27,Leading Pedestrian Interval,no,Brooklyn
@@ -110,7 +113,6 @@ E 230th St & Bronxwood Ave,40.88951005176153,-73.8527699251905,2022-03-10,Traffi
 11th St & 5th Ave,40.6679751157,-73.9873005693,2022-03-13,Leading Pedestrian Interval,no,Brooklyn
 5th Ave & 7th St,40.6703847916,-73.9852958139,2022-03-13,Leading Pedestrian Interval,no,Brooklyn
 5th Ave & 8th St,40.6697837479,-73.9857970164,2022-03-13,Leading Pedestrian Interval,no,Brooklyn
-Mt Hope Pl & Walton Ave,40.849079220446036,-73.90945055687652,2022-03-15,Raised Crosswalk,no,Bronx
 Avenue I & Bedford Ave,40.6286468037,-73.9520674548,2022-03-15,Leading Pedestrian Interval,no,Brooklyn
 Avenue J & Bedford Ave,40.6262531592,-73.9516188651,2022-03-15,Leading Pedestrian Interval,no,Brooklyn
 Avenue K & Bedford Ave,40.6238649978,-73.951163099,2022-03-15,Leading Pedestrian Interval,no,Brooklyn
@@ -290,9 +292,9 @@ Castleton Ave & Kissel Ave,40.6346999492,-74.1045496451,2022-04-22,Leading Pedes
 Castleton Ave & Oakland Ave,40.6347403959,-74.1111754927,2022-04-22,Leading Pedestrian Interval,no,Staten Island
 Castleton Ave & Rector St,40.633671117,-74.128471094,2022-04-22,Leading Pedestrian Interval,no,Staten Island
 Castleton Ave & Taylor St,40.634077767,-74.1230675373,2022-04-22,Leading Pedestrian Interval,no,Staten Island
-Howard Ave & Martha St,40.61347880048257,-74.09792290245701,2022-04-22,Raised Crosswalk,no,Staten Island
 Innis St & Morningstar Rd,40.6345753946,-74.1458389134,2022-04-22,Leading Pedestrian Interval,no,Staten Island
 Morningstar Rd & Walker St,40.6311567628,-74.146912264,2022-04-22,Leading Pedestrian Interval,no,Staten Island
+Mt Hope Pl & Walton Ave,40.849079220446036,-73.90945055687652,2022-04-25,Raised Crosswalk,no,Bronx
 E 151st St & Melrose Ave,40.8175129303,-73.9171182779,2022-04-28,Leading Pedestrian Interval,no,Bronx
 E 16th St & Voorhies Ave,40.5858119029,-73.9529910695,2022-05-04,Leading Pedestrian Interval,no,Brooklyn
 E 18th St & Voorhies Ave,40.5860251942,-73.9510683607,2022-05-04,Leading Pedestrian Interval,no,Brooklyn
@@ -310,7 +312,6 @@ Avenue U & Homecrest Ave,40.5985254368,-73.9591829921,2022-05-09,Leading Pedestr
 Avenue U & Kimball St,40.6083427053,-73.9248222684,2022-05-09,Leading Pedestrian Interval,no,Brooklyn
 Avenue U & Ryder St,40.6078765499,-73.9255286825,2022-05-09,Leading Pedestrian Interval,no,Brooklyn
 Avenue U & Stuart St,40.602230341,-73.9342642215,2022-05-09,Leading Pedestrian Interval,no,Brooklyn
-Coney Island Ave & Elm Ave,40.61658973545885,-73.9636224552717,2022-05-09,Raised Crosswalk,no,Brooklyn
 E 12th St & Avenue U,40.5984187398,-73.9601805252,2022-05-09,Leading Pedestrian Interval,no,Brooklyn
 E 13th St & Avenue U,40.5986294064,-73.9582574769,2022-05-09,Leading Pedestrian Interval,no,Brooklyn
 E 14th St & Avenue U,40.5987306239,-73.9573319618,2022-05-09,Leading Pedestrian Interval,no,Brooklyn
@@ -336,6 +337,7 @@ E 55th St & Avenue U,40.6116055506,-73.9197042108,2022-05-09,Leading Pedestrian 
 E 7th St & Avenue U,40.5979863547,-73.9641058093,2022-05-09,Leading Pedestrian Interval,no,Brooklyn
 E 8th St & Avenue U,40.5981012958,-73.9630326647,2022-05-09,Leading Pedestrian Interval,no,Brooklyn
 E 9th St & Avenue U,40.5982052953,-73.9621035616,2022-05-09,Leading Pedestrian Interval,no,Brooklyn
+Howard Ave & Martha St,40.61347880048257,-74.09792290245701,2022-05-10,Raised Crosswalk,no,Staten Island
 86th St & Avenue W,40.591930025532804,-73.9772699372737,2022-05-11,Traffic Signal,no,Brooklyn
 16th St & Prospect Park SW,40.6573478493,-73.9740429387,2022-05-12,Leading Pedestrian Interval,no,Brooklyn
 86th St & Bay 34th St,40.60013004140936,-73.99086991045199,2022-05-12,Traffic Signal,no,Brooklyn
@@ -379,7 +381,9 @@ E 23rd St & Glenwood Rd,40.6332180076,-73.9548599784,2022-05-20,Leading Pedestri
 E 24th St & Glenwood Rd,40.6333191973,-73.9539339773,2022-05-20,Leading Pedestrian Interval,no,Brooklyn
 E 17th St & Foster Ave,40.6349084031,-73.961308087,2022-05-25,Leading Pedestrian Interval,no,Brooklyn
 E 150th St & Courtlandt Ave,40.8172207509,-73.9192393594,2022-05-27,Leading Pedestrian Interval,no,Bronx
+E 158th St & Cauldwell Ave,40.82011297794175,-73.90818633094275,2022-05-27,Raised Crosswalk,yes,Bronx
 Amboy Rd & Ridgecrest Ave,40.54375004979957,-74.16348992575122,2022-05-27,"Leading Pedestrian Interval, Traffic Signal",no,Staten Island
+Coney Island Ave & Elm Ave,40.61658973545885,-73.9636224552717,2022-06-06,Raised Crosswalk,no,Brooklyn
 85th St & Rockaway Blvd,40.68332005323998,-73.8550299377437,2022-06-14,Traffic Signal,no,Queens
 Beach 110th St & Rockaway Beach Blvd,40.58125005596375,-73.83202991161124,2022-06-14,Traffic Signal,no,Queens
 165th St & Northern Blvd,40.76017003541821,-73.80117989787887,2022-06-17,Traffic Signal,no,Queens

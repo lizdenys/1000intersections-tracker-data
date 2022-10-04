@@ -438,12 +438,12 @@ index,intersection,latitude,longitude,date,number,elements,vz_priority,borough
 436,58th St & 9th Ave,40.6353035015,-74.006169269,2022-05-24,437,Left Turn Calming,no,Brooklyn
 437,62nd St & Bay Pkwy,40.6155645468,-73.9796382173,2022-05-24,438,Left Turn Calming,no,Brooklyn
 438,Industrial Park Rd & Mother Gaston Blvd,40.6702411737,-73.9069984409,2022-05-24,439,Left Turn Calming,no,Brooklyn
-439,E 169th St & Washington Ave,40.8330513839,-73.9059167037,2022-05-25,440,Left Turn Calming,no,Bronx
+439,E 169th St & Washington Ave,40.8330513839,-73.9059167037,2022-05-25,440,Right Turn Calming,no,Bronx
 440,Church Ave & McDonald Ave,40.6427962147,-73.9794423037,2022-05-25,441,Left Turn Calming,yes,Brooklyn
 441,E 17th St & Foster Ave,40.6349084031,-73.961308087,2022-05-25,442,Leading Pedestrian Interval,no,Brooklyn
 442,Louisiana Ave & Twin Pines Dr,40.6468021725,-73.8849483587,2022-05-25,443,Left Turn Calming,no,Brooklyn
 443,E 96th St & Madison Ave,40.7872275636,-73.9541647698,2022-05-25,444,Left Turn Calming,no,Manhattan
-444,Bayard St & McGuinness Blvd S,40.7207979016,-73.9449540505,2022-05-26,445,Left Turn Calming,no,Brooklyn
+444,Bayard St & McGuinness Blvd S,40.7207979016,-73.9449540505,2022-05-26,445,Right Turn Calming,no,Brooklyn
 445,Calyer St & McGuinness Blvd,40.7289719388,-73.9507310221,2022-05-26,446,Left Turn Calming,no,Brooklyn
 446,Greenpoint Ave & McGuinness Blvd,40.7304504155,-73.951590651,2022-05-26,447,Left Turn Calming,no,Brooklyn
 447,Huron St & McGuinness Blvd,40.7332708548,-73.9522184232,2022-05-26,448,Left Turn Calming,no,Brooklyn
@@ -592,7 +592,7 @@ index,intersection,latitude,longitude,date,number,elements,vz_priority,borough
 590,Forest Ave & N Mada Ave,40.630465316,-74.1069063805,2022-07-11,591,Leading Pedestrian Interval,no,Staten Island
 591,Richmond Ter & Sharpe Ave,40.6402244617,-74.1366666363,2022-07-11,592,Leading Pedestrian Interval,no,Staten Island
 592,51st Ave & Vernon Blvd,40.7420424732,-73.9543568091,2022-07-13,593,Leading Pedestrian Interval,no,Queens
-593,57th Ave & Van Horn St,40.7323960511,-73.8764324937,2022-07-14,594,Left Turn Calming,no,Queens
+593,57th Ave & Van Horn St,40.7323960511,-73.8764324937,2022-07-14,594,Right Turn Calming,no,Queens
 594,Bainbridge Ave & Mosholu Pkwy N,40.87258003227066,-73.88126990472956,2022-07-15,595,Traffic Signal,no,Bronx
 595,E 176th St & Walton Ave,40.8482536777,-73.9097461717,2022-07-15,596,Leading Pedestrian Interval,no,Bronx
 596,E 180th St & Valentine Ave,40.8525219032,-73.9000131571,2022-07-15,597,Leading Pedestrian Interval,no,Bronx
